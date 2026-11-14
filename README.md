@@ -10,7 +10,7 @@ Skills for Claude by Keren Kalif, a computer science lecturer. Each skill lives 
 
 ## Install
 
-- **Claude (web / desktop):** download this repo as a ZIP, zip the skill folder you want, and upload it in Customize → Skills.
+- **Claude (web / desktop):** download [kerenkalif-moodle-quiz-from-slides.skill](https://github.com/kerenkalif/keren-public-skills/raw/main/kerenkalif-moodle-quiz-from-slides.skill) and upload it in Customize → Skills.
 - **Claude Code:** copy the skill folder into `~/.claude/skills/`.
 
 ## License
