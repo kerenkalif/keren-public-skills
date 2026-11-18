@@ -7,11 +7,10 @@ Skills for Claude by Keren Kalif, a computer science lecturer. Each skill lives 
 | Skill | What it does |
 |---|---|
 | [kerenkalif-moodle-quiz-from-slides](kerenkalif-moodle-quiz-from-slides) | Turns lecture slides into a question bank, a validated Moodle XML file (one category per presentation) and an optional quiz with random questions. Works for any subject; Hebrew/RTL and English/LTR. |
-| [keren-dev-manager](keren-dev-manager) | Hebrew guidelines for a "development manager" session in Claude Code: breaking a feature into work units, running implementer/reviewer/researcher subagents, worktrees, merging, and a `STATUS.md` handoff file. |
 
 ## Install
 
-- **Claude (web / desktop):** download [kerenkalif-moodle-quiz-from-slides.skill](https://github.com/kerenkalif/keren-public-skills/raw/main/kerenkalif-moodle-quiz-from-slides.skill) and upload it in Customize → Skills. The same applies to [keren-dev-manager.skill](https://github.com/kerenkalif/keren-public-skills/raw/main/keren-dev-manager.skill).
+- **Claude (web / desktop):** download [kerenkalif-moodle-quiz-from-slides.skill](https://github.com/kerenkalif/keren-public-skills/raw/main/kerenkalif-moodle-quiz-from-slides.skill) and upload it in Customize → Skills.
 - **Claude Code:** copy the skill folder into `~/.claude/skills/`.
 
 ## License
